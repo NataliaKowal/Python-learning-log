@@ -19,6 +19,7 @@ If a player inputs an invalid number (less than 0 or greater than 2), the script
 # Requirements
 This script requires Python to run. No additional libraries are necessary since it uses the built-in random module.
 
+
 ## Treasure Island Game
 
 Welcome to Treasure Island.
