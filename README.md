@@ -40,3 +40,17 @@ If a player inputs an invalid number (less than 0 or greater than 2), the script
 
 ## Requirements
 This script requires Python to run. No additional libraries are necessary since it uses the built-in random module.
+
+# Password Generator
+Welcome to the PyPassword Generator! This script is designed to help you create a secure, random password based on your preferences for letters, symbols, and numbers.
+
+## How to Use
+Run the script in a Python environment.
+When prompted, input the desired number of letters, symbols, and numbers for your password.
+The script will generate a list of characters based on your inputs and then shuffle them to ensure randomness.
+Finally, it will output your new, secure password.
+
+## Features
+Customizable Password Length: Choose how many letters, symbols, and numbers you want in your password.
+Random Selection: Uses Python's random module to select characters randomly from a predefined list.
+Security: By mixing letters (both uppercase and lowercase), symbols, and numbers, it generates a strong password to protect your accounts.
