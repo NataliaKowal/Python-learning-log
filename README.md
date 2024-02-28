@@ -51,6 +51,6 @@ The script will generate a list of characters based on your inputs and then shuf
 Finally, it will output your new, secure password.
 
 ## Features
-Customizable Password Length: Choose how many letters, symbols, and numbers you want in your password.
-Random Selection: Uses Python's random module to select characters randomly from a predefined list.
-Security: By mixing letters (both uppercase and lowercase), symbols, and numbers, it generates a strong password to protect your accounts.
+1. Customizable Password Length: Choose how many letters, symbols, and numbers you want in your password.
+2. Random Selection: Uses Python's random module to select characters randomly from a predefined list.
+3. Security: By mixing letters (both uppercase and lowercase), symbols, and numbers, it generates a strong password to protect your accounts.
